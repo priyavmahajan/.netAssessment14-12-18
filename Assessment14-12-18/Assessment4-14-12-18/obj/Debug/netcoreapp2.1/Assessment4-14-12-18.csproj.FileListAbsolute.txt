@@ -1,0 +1,11 @@
+c:\users\priyankaj\source\repos\priyanka\Assessment14-12-18\Assessment4-14-12-18\bin\Debug\netcoreapp2.1\Assessment4-14-12-18.deps.json
+c:\users\priyankaj\source\repos\priyanka\Assessment14-12-18\Assessment4-14-12-18\bin\Debug\netcoreapp2.1\Assessment4-14-12-18.runtimeconfig.json
+c:\users\priyankaj\source\repos\priyanka\Assessment14-12-18\Assessment4-14-12-18\bin\Debug\netcoreapp2.1\Assessment4-14-12-18.runtimeconfig.dev.json
+c:\users\priyankaj\source\repos\priyanka\Assessment14-12-18\Assessment4-14-12-18\bin\Debug\netcoreapp2.1\Assessment4-14-12-18.dll
+c:\users\priyankaj\source\repos\priyanka\Assessment14-12-18\Assessment4-14-12-18\bin\Debug\netcoreapp2.1\Assessment4-14-12-18.pdb
+c:\users\priyankaj\source\repos\priyanka\Assessment14-12-18\Assessment4-14-12-18\obj\Debug\netcoreapp2.1\Assessment4-14-12-18.csprojAssemblyReference.cache
+c:\users\priyankaj\source\repos\priyanka\Assessment14-12-18\Assessment4-14-12-18\obj\Debug\netcoreapp2.1\Assessment4-14-12-18.csproj.CoreCompileInputs.cache
+c:\users\priyankaj\source\repos\priyanka\Assessment14-12-18\Assessment4-14-12-18\obj\Debug\netcoreapp2.1\Assessment4-14-12-18.AssemblyInfoInputs.cache
+c:\users\priyankaj\source\repos\priyanka\Assessment14-12-18\Assessment4-14-12-18\obj\Debug\netcoreapp2.1\Assessment4-14-12-18.AssemblyInfo.cs
+c:\users\priyankaj\source\repos\priyanka\Assessment14-12-18\Assessment4-14-12-18\obj\Debug\netcoreapp2.1\Assessment4-14-12-18.dll
+c:\users\priyankaj\source\repos\priyanka\Assessment14-12-18\Assessment4-14-12-18\obj\Debug\netcoreapp2.1\Assessment4-14-12-18.pdb
